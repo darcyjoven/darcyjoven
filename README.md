@@ -1,5 +1,14 @@
-### Hi there 👋
+# @darcyjoven 👋
 
+- 🔭 I’m currently working at Forewin a company in suzhou.jiangsu.China
+- 💬 Ask me about golang,fgl genero,ERP,javascript...
+- 🖥 My blog site is: [darcy's blog](https://darcyjoven.com)
+- 📘 My book site is: [darcy's book](https://darcyjoven.com/book)
+- 📫 How to reach me:
+  + ✉ [darcy_joven@live.com](mailto:darcy_joven@live.com)
+  + 📱 wechat:[darcy_joven](./wechatQRcode.png)
+
+ 
 <!--
 **darcyjoven/darcyjoven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

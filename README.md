@@ -9,6 +9,7 @@
   + 📱 wechat:[darcy_joven](./wechatQRcode.png)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=darcyjoven&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&icon_color=2234AE&text_color=D3D3D3&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darcyjoven&include_all_commits=true&count_private=true&show_icons=true&hide=TeX&layout=compact&theme=tokyonight&text_color=D3D3D3&hide_border=true)
 
 <!--

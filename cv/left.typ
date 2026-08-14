@@ -11,7 +11,7 @@
     #h2[darcy\_ joven]
 
     #box(width: 1.4em)[#h2[#fa-icon("mobile-phone")]]
-    #h2[138 6009 8557]
+    #h2[131 6009 8557]
 
     #box(width: 1.4em)[#h2[#fa-icon("envelope")]]
     #h2(size: 12pt)[#link("mailto:darcy_joven\@live.com")[darcy\_ joven\@live.com]]
